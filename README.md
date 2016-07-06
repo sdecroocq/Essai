@@ -7,3 +7,4 @@ je change le master sans changer stephane
 est ce que c'esqt la branche stéphane ?
 >>>>>>> stephane
 Ligne rajoutée le 5 juillet
+Jessaye de voir si j'aime les accents
