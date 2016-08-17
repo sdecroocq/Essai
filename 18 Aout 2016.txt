@@ -1,0 +1,2 @@
+Je crée un nouveau dossier.
+Je le rajouterai au  commit (commit-rescan-commit-stage to commit-commit)
