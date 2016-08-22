@@ -3,3 +3,4 @@ Je le rajouterai au  commit (commit-rescan-commit-stage to commit-commit)
 De mon coté je fais aussi un changement dans le fichier. Il y a maintenant deux versions différentes du même fichier 1 sur github et une sur mon ordi
 je ne comprends pas je n'ai pas réussi à faire un commit je n'arrive pas a mettre le fichier sur le serveur en addition des changements faits auparavant sur le serveur.
 Il n'y a plus qu'une version car l'autre a été écrasée par le push plus force overwrite
+En fait je n'avais pas crée de branche locale. J'ai maintenant la branche stéphane (create branch) et je pense que je travaille dessus, c'est ce que j'essaye de voir.
